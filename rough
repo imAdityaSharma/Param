@@ -1,0 +1,20 @@
+11/02/21, 5:17 pm - YOU: Kaha  hai ??
+11/02/21, 5:45 pm - Aditya Gupta: Delhi..!!
+11/02/21, 7:36 pm - YOU: 11 ko aane wala tha tu
+11/02/21, 7:36 pm - YOU: 9 ka bol ke mujhe bula liya
+
+['re: 11 ko aane wala tha tu'],
+['re: 9 ka bol ke mujhe bula liya']
+
+l1 + l2
+
+['YOU: 11 ko aane wala tha tuYOU: 9 ka bol ke mujhe bula liya']
+
+semt                                             reply
+YOU: 9 ka bol ke mujhe bula liya'                
+
+[
+    ["SENT",                       "RECEVIED"],
+    ['YOU: 11 ko aane wala tha tu','Aditya Gupta: 9 ka bol ke mujhe bula liya'],
+]
+y
